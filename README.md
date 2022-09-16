@@ -12,7 +12,7 @@ En caso no te aparezca la opción sugiero lo siguiente:
 - Copia la ruta que aparece en la parte superior, en mi caso esta es la ruta C:\Users\cueva\Downloads\trabajo
 - En los programas busca CMD o Powershell y da click en abrir.
 - Escribe el siguiente comando sin comillas: "cd $ruta"
-- En mi caso sería algo así: "cd C:\Users\cueva\Downloads\trabajo"
+- En mi caso sería algo así: "cd C:\Users\Downloads\trabajo"
 - Dale enter y listo.
 
 Una vez en la terminal ejecuta estos dos comandos:
